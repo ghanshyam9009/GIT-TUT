@@ -5,3 +5,4 @@ def greet(name="world"):
 if __name__ == "__main__":
     print(greet())
     print(greet("Alice"))
+    print(greet("Bob"))
